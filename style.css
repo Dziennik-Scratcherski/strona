@@ -1,6 +1,9 @@
 html {
 background-color: #4d97ff;
 scroll-behavior: smooth;
+}
+
+body {
 user-select: none;
 }
 
