@@ -1,6 +1,7 @@
 html {
 background-color: #4d97ff;
 scroll-behavior: smooth;
+user-select: none;
 }
 
 #logo {
