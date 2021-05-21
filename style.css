@@ -1,0 +1,48 @@
+html {
+background-color: #4d97ff;
+scroll-behavior: smooth;
+}
+
+#logo {
+position: fixed;
+resize: both;
+overflow: auto;
+}
+
+#logo {
+  width: 70px;
+  height: 70px;
+  background: none;
+  transition-property: width, height;
+  transition-duration: 1s;
+}
+
+#logo:hover {
+  width: 150px;
+  height: 150px;
+}
+
+#pasek {
+font-variant: Arial;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
