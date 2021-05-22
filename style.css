@@ -28,7 +28,7 @@ overflow: auto;
 
 #pasek {
 font-variant: 'Bradley Hand ITC' Arial;
-align-text: center;
+text-align: center;
 }
 
 a:link {
