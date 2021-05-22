@@ -27,7 +27,8 @@ overflow: auto;
 }
 
 #pasek {
-font-variant: 'Bradley Hand ITC' Arial;
+font-family: 'Bradley Hand ITC' Arial;
+/*font-size: ;*/
 text-align: center;
 }
 
