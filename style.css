@@ -52,3 +52,7 @@ a:active {
   background-color: transparent;
   text-decoration: none;
 }
+
+.studioview-root {
+  background-color: white;
+}
